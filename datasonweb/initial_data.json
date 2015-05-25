@@ -1,0 +1,4133 @@
+[{
+  "pk":0,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"369",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/meizu/mx4-16gb.html#&color=gris"
+  }
+},{
+  "pk":0,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"A17 2.2GHz x 4 + A7 1.7GHz x 4",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":4,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1920.0x1152.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":6,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":7,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MP3",
+    "type":"Tonos"
+  }
+},{
+  "pk":8,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Chat, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":10,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"20.7 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":12,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":14,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":15,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":16,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, B\u00fasqueda y localizaci\u00f3n v\u00eda GPS, Pantalla t\u00e1ctil, Teclado t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":18,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"144.0x75.2x8.9 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":19,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"147.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":20,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.36 \"/13.61 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":21,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MEIZUMX416GBGRWEB",
+    "type":"Part"
+  }
+},{
+  "pk":0,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      21
+    ],
+    "name":"Meizu MX4 16GB",
+    "price_that_has":0,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":1,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"279",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-a3.html#&color=negro"
+  }
+},{
+  "pk":22,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad-core 1.2 GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":23,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"560.0x960.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":24,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4.4 (KitKat)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":27,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":29,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":31,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1.5GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":15,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":32,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":33,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 64GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":34,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"130.1x65.5x6.9 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":35,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"110.3 g",
+    "type":"Peso"
+  }
+},{
+  "pk":36,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.5 \"/11.43 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":37,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"ORASAMGALAXYA3SILVER",
+    "type":"Part"
+  }
+},{
+  "pk":38,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYA3BLACK",
+    "type":"Part"
+  }
+},{
+  "pk":39,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYA3WHITE",
+    "type":"Part"
+  }
+},{
+  "pk":1,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      22,
+      1,
+      2,
+      3,
+      23,
+      5,
+      24,
+      25,
+      26,
+      9,
+      27,
+      28,
+      13,
+      29,
+      30,
+      31,
+      15,
+      17,
+      32,
+      33,
+      34,
+      35,
+      36,
+      37,
+      38,
+      39
+    ],
+    "name":"Samsung Galaxy A3",
+    "price_that_has":1,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":2,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"249",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/htc/desire-601.html#&color=blanco"
+  }
+},{
+  "pk":40,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Micro SD",
+    "type":"Tipo Tarjeta"
+  }
+},{
+  "pk":41,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Dual-core 1.4GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":42,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"HSDPA 900/1900/2100",
+    "type":"3G"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":43,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"540.0x960.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":44,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":45,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":46,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":49,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Pantalla t\u00e1ctil, Ranura tarjeta memoria",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":33,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 64GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":50,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"400.0 h /12.0 h",
+    "type":"Autonom\u00eda en espera / conv."
+  }
+},{
+  "pk":51,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"134.5x66.7x4.5 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":52,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"130.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":36,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.5 \"/11.43 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":53,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"HTCDESIRE601WHITE",
+    "type":"Part"
+  }
+},{
+  "pk":2,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      40,
+      41,
+      1,
+      42,
+      2,
+      3,
+      43,
+      5,
+      44,
+      25,
+      26,
+      9,
+      45,
+      28,
+      11,
+      46,
+      13,
+      47,
+      48,
+      49,
+      17,
+      33,
+      50,
+      51,
+      52,
+      36,
+      53
+    ],
+    "name":"HTC Desire 601",
+    "price_that_has":2,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":3,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"195",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-grand-prime.html#&color=gris"
+  }
+},{
+  "pk":22,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad-core 1.2 GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":43,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"540.0x960.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":54,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4 (KitKat)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":27,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":55,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Notificaciones, Bluetooth/",
+    "type":"Compatibilidad Smartwatch"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":29,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":32,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":33,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 64GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":56,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"144.8x72.1x8.6 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":57,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"156.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":58,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 \"/12.7 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":59,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MOVSAMGALGRANPRIMGOL",
+    "type":"Part"
+  }
+},{
+  "pk":60,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYGRANDPRIMEG",
+    "type":"Part"
+  }
+},{
+  "pk":61,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYGRANDPRIMEW",
+    "type":"Part"
+  }
+},{
+  "pk":3,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      22,
+      1,
+      2,
+      3,
+      43,
+      5,
+      54,
+      25,
+      26,
+      9,
+      27,
+      28,
+      11,
+      55,
+      13,
+      29,
+      30,
+      47,
+      48,
+      32,
+      17,
+      33,
+      56,
+      57,
+      58,
+      59,
+      60,
+      61
+    ],
+    "name":"Samsung Galaxy Grand Prime",
+    "price_that_has":3,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":4,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"148",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/lg/l-bello.html#&color=negro"
+  }
+},{
+  "pk":62,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad Core de 1.3Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":63,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"480.0x854.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":64,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4.2 (KitKat)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":27,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":65,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, Navegador internet, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":66,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria, Teclado t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":67,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 32GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":68,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"600.0 h /12.0 h",
+    "type":"Autonom\u00eda en espera / conv."
+  }
+},{
+  "pk":69,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"138.1x70.6x10.7 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":70,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"137.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":71,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 \"/10.7 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":72,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGLBELLOBLACK",
+    "type":"Part"
+  }
+},{
+  "pk":73,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGLBELLOWHITE",
+    "type":"Part"
+  }
+},{
+  "pk":4,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      62,
+      1,
+      3,
+      63,
+      5,
+      64,
+      25,
+      26,
+      9,
+      27,
+      11,
+      13,
+      65,
+      30,
+      47,
+      48,
+      66,
+      17,
+      67,
+      68,
+      69,
+      70,
+      71,
+      72,
+      73
+    ],
+    "name":"LG L Bello",
+    "price_that_has":4,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":5,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"239",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/lg/g3-s.html#&color=negro"
+  }
+},{
+  "pk":22,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad-core 1.2 GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":74,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"HSDPA 850/900/1900/2100",
+    "type":"3G"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":75,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"720.0x1280.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":64,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4.2 (KitKat)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":27,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":46,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":66,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria, Teclado t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":33,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 64GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":76,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"700.0 h /15.0 h",
+    "type":"Autonom\u00eda en espera / conv."
+  }
+},{
+  "pk":77,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"137.7x69.6x10.9 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":78,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"134.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":58,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 \"/12.7 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":79,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGG3SBLACK",
+    "type":"Part"
+  }
+},{
+  "pk":80,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGG3SGOLD",
+    "type":"Part"
+  }
+},{
+  "pk":81,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGG3SWHITE",
+    "type":"Part"
+  }
+},{
+  "pk":5,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      22,
+      1,
+      74,
+      2,
+      3,
+      75,
+      5,
+      64,
+      25,
+      26,
+      9,
+      27,
+      28,
+      11,
+      46,
+      13,
+      30,
+      47,
+      48,
+      66,
+      17,
+      33,
+      76,
+      77,
+      78,
+      58,
+      79,
+      80,
+      81
+    ],
+    "name":"LG G3 S",
+    "price_that_has":5,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":6,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"189",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/bq/aquaris-e5-4g-8gb.html#&color=negro"
+  }
+},{
+  "pk":82,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad Core A53 hasta 1.2 GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":83,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"HSDPA 900/2100",
+    "type":"3G"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":84,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Dual SIM"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":75,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"720.0x1280.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":6,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":85,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Monof\u00f3nicos, Polif\u00f3nicos, Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":8,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Chat, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":86,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"13 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":87,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, GPRS, Navegador internet",
+    "type":"Conectividad"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":66,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria, Teclado t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":67,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 32GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":88,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"143.15x72.15x8.7 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":89,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"139.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":58,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 \"/12.7 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":90,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"BQAQUARISE5LTED8GBW",
+    "type":"Part"
+  }
+},{
+  "pk":91,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"BQAQUARISE5LTED8GBB",
+    "type":"Part"
+  }
+},{
+  "pk":6,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      82,
+      1,
+      83,
+      2,
+      84,
+      3,
+      75,
+      6,
+      85,
+      8,
+      9,
+      86,
+      28,
+      11,
+      13,
+      87,
+      47,
+      48,
+      66,
+      17,
+      67,
+      88,
+      89,
+      58,
+      90,
+      91
+    ],
+    "name":"Bq Aquaris E5 4G 8GB",
+    "price_that_has":6,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":7,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"129",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-core-prime.html#&color=gris"
+  }
+},{
+  "pk":22,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad-core 1.2 GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":92,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"480.0x800.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":54,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4 (KitKat)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":45,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":46,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":32,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":33,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 64GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":93,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"130.8x67.9x8.8 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":52,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"130.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":36,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.5 \"/11.43 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":94,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYCOREPRIMEGR",
+    "type":"Part"
+  }
+},{
+  "pk":95,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYCOREPRIMEWH",
+    "type":"Part"
+  }
+},{
+  "pk":96,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"VODSAMGALCOREPRIMEBL",
+    "type":"Part"
+  }
+},{
+  "pk":7,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      22,
+      1,
+      2,
+      3,
+      92,
+      5,
+      54,
+      25,
+      26,
+      9,
+      45,
+      28,
+      11,
+      46,
+      13,
+      30,
+      47,
+      48,
+      32,
+      17,
+      33,
+      93,
+      52,
+      36,
+      94,
+      95,
+      96
+    ],
+    "name":"Samsung Galaxy Core Prime",
+    "price_that_has":7,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":8,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"49",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/storex/dc40g.html#modalidad=Libre&color=blanco"
+  }
+},{
+  "pk":40,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Micro SD",
+    "type":"Tipo Tarjeta"
+  }
+},{
+  "pk":97,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Dual Core de 1Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":98,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bibanda (GSM 900/1900 o 850/1900)",
+    "type":"Bandas"
+  }
+},{
+  "pk":92,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"480.0x800.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":99,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.2 (Jelly Bean)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":100,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":102,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"512 MB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":103,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":104,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Manos libres, Pantalla t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":105,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSDHC (Hasta 32GB)",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":106,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"120.0x63.0x10.1 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":107,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"106.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":108,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.0 \"/10.16 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":109,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"STODC40GBLACKWEB",
+    "type":"Part"
+  }
+},{
+  "pk":110,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"STODC40GWHITEWEB",
+    "type":"Part"
+  }
+},{
+  "pk":8,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      40,
+      97,
+      98,
+      92,
+      99,
+      9,
+      100,
+      101,
+      13,
+      30,
+      102,
+      103,
+      104,
+      105,
+      106,
+      107,
+      108,
+      109,
+      110
+    ],
+    "name":"Storex DC40G",
+    "price_that_has":8,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":9,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"75",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/storex/dc50g.html#modalidad=Libre&color=negro"
+  }
+},{
+  "pk":40,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Micro SD",
+    "type":"Tipo Tarjeta"
+  }
+},{
+  "pk":111,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Dual Core de 1.3 Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":98,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bibanda (GSM 900/1900 o 850/1900)",
+    "type":"Bandas"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":63,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"480.0x854.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":99,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.2 (Jelly Bean)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":100,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":102,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"512 MB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":103,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":104,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Manos libres, Pantalla t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":105,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSDHC (Hasta 32GB)",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":112,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"145.5x77.5x9.8 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":113,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"179.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":58,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 \"/12.7 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":114,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"M\u00f3viles Low Cost"
+  }
+},{
+  "pk":115,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"STODC50GWHITEWEB",
+    "type":"Part"
+  }
+},{
+  "pk":116,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"STODC50GBLACKWEB",
+    "type":"Part"
+  }
+},{
+  "pk":9,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      40,
+      111,
+      98,
+      3,
+      63,
+      99,
+      9,
+      100,
+      101,
+      13,
+      30,
+      102,
+      103,
+      104,
+      105,
+      112,
+      113,
+      58,
+      114,
+      115,
+      116
+    ],
+    "name":"Storex DC50G",
+    "price_that_has":9,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":10,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"65",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/jiayu/f1.html#modalidad=Libre&color=negro"
+  }
+},{
+  "pk":40,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Micro SD",
+    "type":"Tipo Tarjeta"
+  }
+},{
+  "pk":117,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Dual-Core de 1.3Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":98,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bibanda (GSM 900/1900 o 850/1900)",
+    "type":"Bandas"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":118,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"800.0x480.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":99,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.2 (Jelly Bean)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":45,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":102,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"512 MB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":103,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":119,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Pantalla t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":67,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 32GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":120,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"125.0x62.0x9.9 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":108,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.0 \"/10.16 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":121,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"JIAF1BLACKWEB",
+    "type":"Part"
+  }
+},{
+  "pk":122,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"JIAF1WHITEWEB",
+    "type":"Part"
+  }
+},{
+  "pk":10,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      40,
+      117,
+      98,
+      3,
+      118,
+      99,
+      9,
+      45,
+      101,
+      13,
+      30,
+      102,
+      103,
+      119,
+      17,
+      67,
+      120,
+      108,
+      121,
+      122
+    ],
+    "name":"Jiayu F1",
+    "price_that_has":10,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":11,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"699",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-s6-32gb.html#&color=oro"
+  }
+},{
+  "pk":123,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad 2.1GHz + Quad 1.5Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":125,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v5 (Lollipop)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":126,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":127,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"3GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":128,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"32.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":129,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"143.4x70.5x6.8 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":130,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"132.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":131,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.1 \"/12.95 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":132,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS632GBBLACK",
+    "type":"Part"
+  }
+},{
+  "pk":133,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS632GBWHITE",
+    "type":"Part"
+  }
+},{
+  "pk":134,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS632GBGOLD",
+    "type":"Part"
+  }
+},{
+  "pk":135,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS632GBBLUE",
+    "type":"Part"
+  }
+},{
+  "pk":11,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      123,
+      1,
+      2,
+      3,
+      124,
+      5,
+      125,
+      25,
+      26,
+      9,
+      126,
+      28,
+      11,
+      13,
+      101,
+      127,
+      128,
+      17,
+      129,
+      130,
+      131,
+      132,
+      133,
+      134,
+      135
+    ],
+    "name":"Samsung Galaxy S6 32GB",
+    "price_that_has":11,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":12,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"849",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-s6-edge-32gb.html#&color=blanco"
+  }
+},{
+  "pk":123,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad 2.1GHz + Quad 1.5Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":125,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v5 (Lollipop)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":126,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":127,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"3GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":128,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"32.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":136,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"142.1x70.1x7.0 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":130,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"132.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":131,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.1 \"/12.95 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":137,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE32GBB",
+    "type":"Part"
+  }
+},{
+  "pk":138,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE32GBW",
+    "type":"Part"
+  }
+},{
+  "pk":139,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE32GBG",
+    "type":"Part"
+  }
+},{
+  "pk":140,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MOVSAMGALS6EDGE32GGR",
+    "type":"Part"
+  }
+},{
+  "pk":12,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      123,
+      1,
+      2,
+      3,
+      124,
+      125,
+      9,
+      126,
+      101,
+      13,
+      127,
+      128,
+      136,
+      130,
+      131,
+      137,
+      138,
+      139,
+      140
+    ],
+    "name":"Samsung Galaxy S6 Edge 32GB",
+    "price_that_has":12,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":13,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"949",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-s6-edge-64gb.html#&color=oro"
+  }
+},{
+  "pk":123,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad 2.1GHz + Quad 1.5Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":125,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v5 (Lollipop)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":126,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":127,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"3GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":141,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"64.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":136,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"142.1x70.1x7.0 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":130,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"132.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":131,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.1 \"/12.95 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":142,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE64GBB",
+    "type":"Part"
+  }
+},{
+  "pk":143,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE64GBG",
+    "type":"Part"
+  }
+},{
+  "pk":144,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE64GBW",
+    "type":"Part"
+  }
+},{
+  "pk":145,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"VODSAMGALS6EDGE64GGR",
+    "type":"Part"
+  }
+},{
+  "pk":13,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      123,
+      2,
+      124,
+      125,
+      9,
+      126,
+      101,
+      13,
+      127,
+      141,
+      136,
+      130,
+      131,
+      142,
+      143,
+      144,
+      145
+    ],
+    "name":"Samsung Galaxy S6 Edge 64GB",
+    "price_that_has":13,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":14,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"899",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-s6-128gb.html#&color=oro"
+  }
+},{
+  "pk":123,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad 2.1GHz + Quad 1.5Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":84,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Dual SIM"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":125,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v5 (Lollipop)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":8,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Chat, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":126,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":127,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"3GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":146,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"128.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":129,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"143.4x70.5x6.8 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":130,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"132.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":131,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.1 \"/12.95 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":147,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6128GBWHIT",
+    "type":"Part"
+  }
+},{
+  "pk":148,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6128GBGOLD",
+    "type":"Part"
+  }
+},{
+  "pk":149,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6128GBBLAC",
+    "type":"Part"
+  }
+},{
+  "pk":150,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6128GBBLUE",
+    "type":"Part"
+  }
+},{
+  "pk":14,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      123,
+      1,
+      2,
+      84,
+      3,
+      124,
+      5,
+      125,
+      25,
+      8,
+      9,
+      126,
+      28,
+      11,
+      101,
+      127,
+      146,
+      129,
+      130,
+      131,
+      147,
+      148,
+      149,
+      150
+    ],
+    "name":"Samsung Galaxy S6 128GB",
+    "price_that_has":14,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":15,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"799",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-s6-64gb.html#&color=oro"
+  }
+},{
+  "pk":123,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad 2.1GHz + Quad 1.5Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":125,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v5 (Lollipop)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":126,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":127,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"3GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":141,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"64.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":129,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"143.4x70.5x6.8 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":130,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"132.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":131,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.1 \"/12.95 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":151,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS664GBGOLD",
+    "type":"Part"
+  }
+},{
+  "pk":152,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS664GBBLACK",
+    "type":"Part"
+  }
+},{
+  "pk":153,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS664GBWHITE",
+    "type":"Part"
+  }
+},{
+  "pk":154,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"VODSAMGALS664GBBLUE",
+    "type":"Part"
+  }
+},{
+  "pk":15,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      123,
+      2,
+      124,
+      125,
+      9,
+      126,
+      101,
+      127,
+      141,
+      129,
+      130,
+      131,
+      151,
+      152,
+      153,
+      154
+    ],
+    "name":"Samsung Galaxy S6 64GB",
+    "price_that_has":15,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":16,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"1049",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/samsung/galaxy-s6-edge-128gb.html#&color=negro"
+  }
+},{
+  "pk":123,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad 2.1GHz + Quad 1.5Ghz",
+    "type":"Procesador"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":125,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v5 (Lollipop)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":126,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":101,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Bluetooth",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":127,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"3GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":146,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"128.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":136,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"142.1x70.1x7.0 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":130,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"132.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":131,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.1 \"/12.95 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":155,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE128WH",
+    "type":"Part"
+  }
+},{
+  "pk":156,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE128BL",
+    "type":"Part"
+  }
+},{
+  "pk":157,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6EDGE128GO",
+    "type":"Part"
+  }
+},{
+  "pk":158,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SAMGALAXYS6ED128GREE",
+    "type":"Part"
+  }
+},{
+  "pk":16,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      123,
+      2,
+      124,
+      125,
+      9,
+      126,
+      101,
+      13,
+      127,
+      146,
+      136,
+      130,
+      131,
+      155,
+      156,
+      157,
+      158
+    ],
+    "name":"Samsung Galaxy S6 Edge 128GB",
+    "price_that_has":16,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":17,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"379",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/lg/g3.html#&color=negro"
+  }
+},{
+  "pk":159,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad-Core 2.5GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":160,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"HSDPA 850/900/1800/1900",
+    "type":"3G"
+  }
+},{
+  "pk":2,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Si",
+    "type":"4G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":124,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2560.0x1440.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":64,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.4.2 (KitKat)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":25,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":86,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"13 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":46,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":14,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"2GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":15,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":32,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":161,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 128GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":162,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"553.0 h /19.0 h",
+    "type":"Autonom\u00eda en espera / conv."
+  }
+},{
+  "pk":163,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"146.3x74.6x8.9 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":164,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"151.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":165,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.5 \"/13.97 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":166,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGG3WHITE",
+    "type":"Part"
+  }
+},{
+  "pk":167,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGG3GOLD",
+    "type":"Part"
+  }
+},{
+  "pk":168,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"LGG3BLACK",
+    "type":"Part"
+  }
+},{
+  "pk":17,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      159,
+      1,
+      160,
+      2,
+      3,
+      124,
+      5,
+      64,
+      25,
+      26,
+      9,
+      86,
+      28,
+      11,
+      46,
+      13,
+      30,
+      14,
+      15,
+      32,
+      17,
+      161,
+      162,
+      163,
+      164,
+      165,
+      166,
+      167,
+      168
+    ],
+    "name":"LG G3",
+    "price_that_has":17,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":18,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"85",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/alcatel/one-touch-pop-c7.html#&color=negro"
+  }
+},{
+  "pk":169,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad Core de 1,3 GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":170,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"HSDPA 850/900/2100",
+    "type":"3G"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":63,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"480.0x854.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":99,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.2 (Jelly Bean)",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":85,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Monof\u00f3nicos, Polif\u00f3nicos, Reales, MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":8,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Chat, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":45,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":65,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, Navegador internet, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":103,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":171,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Pantalla t\u00e1ctil, Ranura tarjeta memoria, Teclado t\u00e1ctil",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":67,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 32GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":172,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"600.0 h /9.0 h",
+    "type":"Autonom\u00eda en espera / conv."
+  }
+},{
+  "pk":173,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"141.0x71.8x9.9 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":174,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"162.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":58,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"5.0 \"/12.7 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":175,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"ALCPOPC7BLACK",
+    "type":"Part"
+  }
+},{
+  "pk":18,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      169,
+      1,
+      170,
+      3,
+      63,
+      5,
+      99,
+      85,
+      8,
+      9,
+      45,
+      28,
+      11,
+      13,
+      65,
+      47,
+      103,
+      171,
+      67,
+      172,
+      173,
+      174,
+      58,
+      175
+    ],
+    "name":"Alcatel One Touch Pop C7",
+    "price_that_has":18,
+    "tiempo_registro":"2015-5-25"
+  }
+},{
+  "pk":19,
+  "model":"principal.price",
+  "fields":{
+    "cuantity":"178",
+    "coins":"euros",
+    "link":"http://www.phonehouse.es/movil/sony/xperia-m2.html#&color=negro"
+  }
+},{
+  "pk":40,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Micro SD",
+    "type":"Tipo Tarjeta"
+  }
+},{
+  "pk":176,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Quad-Core 1.2GHz",
+    "type":"Procesador"
+  }
+},{
+  "pk":1,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Cuatribanda (GSM 850/900/1800/1900 )",
+    "type":"Bandas"
+  }
+},{
+  "pk":3,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"T\u00e1ctil",
+    "type":"Tipo de m\u00f3vil"
+  }
+},{
+  "pk":43,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"540.0x960.0 pixels",
+    "type":"Resoluci\u00f3n de pantalla"
+  }
+},{
+  "pk":5,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"16 millones",
+    "type":"N\u00famero de colores"
+  }
+},{
+  "pk":177,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Android v4.3",
+    "type":"Sist. Operativo / Plataforma"
+  }
+},{
+  "pk":178,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MP3, Vibraci\u00f3n",
+    "type":"Tonos"
+  }
+},{
+  "pk":26,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SMS, MMS, Email, Escritura predictiva",
+    "type":"Mensajer\u00eda"
+  }
+},{
+  "pk":9,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara"
+  }
+},{
+  "pk":27,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 mpx",
+    "type":"Megap\u00edxeles"
+  }
+},{
+  "pk":28,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Videollamada"
+  }
+},{
+  "pk":11,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"C\u00e1mara de Video"
+  }
+},{
+  "pk":13,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Wi-Fi"
+  }
+},{
+  "pk":46,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Conexi\u00f3n 3,5 mm, Bluetooth, EDGE, GPRS, USB",
+    "type":"Conectividad"
+  }
+},{
+  "pk":30,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"Radio"
+  }
+},{
+  "pk":47,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"1GB",
+    "type":"Memoria RAM"
+  }
+},{
+  "pk":48,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"8.0 Gb",
+    "type":"Memoria Interna"
+  }
+},{
+  "pk":17,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"S\u00ed",
+    "type":"GPS"
+  }
+},{
+  "pk":32,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"Altavoz, Manos libres, Pantalla t\u00e1ctil, Ranura tarjeta memoria",
+    "type":"Particularidades del m\u00f3vil"
+  }
+},{
+  "pk":67,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"MicroSD hasta 32GB",
+    "type":"Memoria Externa"
+  }
+},{
+  "pk":179,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"588.0 h /13.0 h",
+    "type":"Autonom\u00eda en espera / conv."
+  }
+},{
+  "pk":180,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"139.7x71.1x8.6 mm",
+    "type":"Dimensiones (Largo x Alto x Prof.)"
+  }
+},{
+  "pk":181,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"148.0 g",
+    "type":"Peso"
+  }
+},{
+  "pk":182,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"4.8 \"/12.19 cm",
+    "type":"Pantalla"
+  }
+},{
+  "pk":183,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SONXPERIAM2BLACK",
+    "type":"Part"
+  }
+},{
+  "pk":184,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"VODSONXPERIAM2PURPLE",
+    "type":"Part"
+  }
+},{
+  "pk":185,
+  "model":"principal.caracteristic",
+  "fields":{
+    "information":"SONXPERIAM2WHITE",
+    "type":"Part"
+  }
+},{
+  "pk":19,
+  "model":"principal.phone",
+  "fields":{
+    "image":"",
+    "caracteristics_that_own":[
+      40,
+      176,
+      1,
+      3,
+      43,
+      5,
+      177,
+      178,
+      26,
+      9,
+      27,
+      28,
+      11,
+      13,
+      46,
+      30,
+      47,
+      48,
+      17,
+      32,
+      67,
+      179,
+      180,
+      181,
+      182,
+      183,
+      184,
+      185
+    ],
+    "name":"Sony Xperia M2",
+    "price_that_has":19,
+    "tiempo_registro":"2015-5-25"
+  }
+},]
